@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheSlugos I like to pretend that I am a developer.
 - 👀 I’m interested in games, C, Flutter
-- 🌱 I’m currently learning Minecraft Moddig
+- 🌱 I’m currently learning Minecraft Modding
 
 <!---
 TheSlugos/TheSlugos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
